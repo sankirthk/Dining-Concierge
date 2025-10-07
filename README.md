@@ -1,4 +1,5 @@
 # Dining Concierge Chatbot – Cloud Computing & Big Data (Fall 2025)
+**Version:** v1.0.0
 
 We built a full-stack, serverless web application as part of CS-GY 9223 (Cloud Computing & Big Data) at New York University. Our project implements a Dining Concierge Chatbot that recommends restaurants through natural conversation using AWS managed services.
 
